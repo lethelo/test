@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("你好");
         System.out.println("离离原上草");
+        
+        "我爱你塞北的雪"
     }
 }
